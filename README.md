@@ -1,2 +1,2 @@
 # DEMO-repo
-My first repository.
+My first repository!
